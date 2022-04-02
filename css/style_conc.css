@@ -28,29 +28,11 @@
   margin-right: auto;
 }
 
-.footer{
-  background-color: blue;
-  color: #C0992A;
-  font-weight: bold;
-  height: 20px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 30px;
-
-
-}
-
-
 .a-header{
   text-decoration: none;
   color: #C0992A;
 }
 
-.a-footer{
-  text-decoration: none ;
-color: #C0992A;
-}
 
 #github1{
   float: left;
@@ -58,8 +40,8 @@ color: #C0992A;
 }
 
 .listaord{
-background: #ffffff;
-padding: 20px;
+  background: #ffffff;
+  padding: 20px;
 }
 
 .carlos_img{
@@ -68,8 +50,8 @@ padding: 20px;
 }
 
 .imagem-principal {
-width: 100%;
-height: 400px;
+  width: 100%;
+  height: 400px;
 }
 
 
@@ -86,11 +68,27 @@ height: 400px;
 }
 
 .img-concorrentes{
-max-width: 20%;
+  max-width: 20%;
 
 }
 
 .p-concorrentes{
 border: 2px solid powderblue;
 padding: 30px;
+}
+
+.footer{
+  background-color: blue;
+  color: #C0992A;
+  font-weight: bold;
+  height: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+}
+
+.a-footer{
+  text-decoration: none ;
+  color: #C0992A;
 }
